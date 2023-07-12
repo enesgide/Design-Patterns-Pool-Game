@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"PoolGame"},{"l":"PoolGame.config"},{"l":"PoolGame.difficulty"},{"l":"PoolGame.objects"},{"l":"PoolGame.strategy"},{"l":"PoolGame.undo"}];updateSearchResults();
